@@ -1,4 +1,4 @@
-FROM oixhwotl/arches3-v1
+FROM oixhwotl/arches3-v1:15.10
 MAINTAINER ASCDC <ascdc@gmail.com>
 
 ADD run.sh /run.sh
